@@ -1,0 +1,61 @@
+provider_id,provider_npi_fake,provider_name,specialty,brand,location,panel_size,capacity_per_week,active_flag
+PRV-1000,6932599814,Dr. Patrick Bailey,Cardiology,MEDFIRST,"New Tanyahaven, MP",1040,78,True
+PRV-1001,2178508211,Dr. Carrie Ford,Cardiology,MEDFIRST,"New Abigail, SD",2723,38,True
+PRV-1002,7747748543,Dr. Jeffrey Cruz,Internal Medicine,MEDFIRST,"Rebeccatown, SC",1623,43,True
+PRV-1003,8126338341,Dr. Whitney Walters,Dermatology,MEDFIRST,"New Ronaldbury, MH",550,27,True
+PRV-1004,6062840421,Dr. Jesus Acosta,Psychiatry,MEDFIRST,"Lake Melanie, OH",570,48,True
+PRV-1005,3003342401,Dr. Crystal Martin,Pulmonology,MEDFIRST,"West Jason, MD",2466,60,True
+PRV-1006,2754970413,Dr. Mark Crawford,Dermatology,MEDFIRST,"South Heather, MA",825,37,True
+PRV-1007,5094363513,Dr. Cheryl Webster,Psychiatry,MEDFIRST,"Anthonyland, ND",1236,36,True
+PRV-1008,3125703567,Dr. Melissa Soto,Cardiology,MEDFIRST,"Hernandezchester, RI",1214,29,True
+PRV-1009,1999320584,Dr. Richard Glenn,Internal Medicine,MEDFIRST,"Crawfordfort, VA",1254,63,False
+PRV-1010,7785578957,Dr. Kelli Marshall,Internal Medicine,MEDFIRST,"Martineztown, NY",2766,65,True
+PRV-1011,2105718202,Dr. Courtney Montoya,Pulmonology,MEDFIRST,"New Tyler, AL",2713,65,True
+PRV-1012,3579466477,Dr. Sabrina Myers,Pulmonology,MEDFIRST,"Lewismouth, NE",947,24,False
+PRV-1013,1332646182,Dr. William Fernandez,Cardiology,MEDFIRST,"Gomezport, NY",1834,56,True
+PRV-1014,8219909864,Dr. Sheri Willis,Family Practice,MEDFIRST,"South Steven, GU",2246,76,True
+PRV-1015,1614521710,Dr. Danielle Reynolds,Pulmonology,MEDFIRST,"New Jacquelinefort, PW",2986,70,True
+PRV-1016,8095192399,Dr. Michael Smith,Psychiatry,MEDFIRST,"Port Jenniferport, SD",1704,59,True
+PRV-1017,5983505618,Dr. Brian Harris,Internal Medicine,MEDFIRST,"North Michaelborough, CA",1691,79,True
+PRV-1018,1109673244,Dr. Michael Stark,Dermatology,MEDFIRST,"Port Michaelside, IL",1366,71,True
+PRV-1019,6217821437,Dr. Nathan Lee,Dermatology,MEDFIRST,"Deniseside, LA",633,62,True
+PRV-1020,4148407142,Dr. Kristi Rivera,Obstetrics & Gynecology,CAREPLUS,"Jonesland, WA",710,58,False
+PRV-1021,7529793398,Dr. Scott Meyer,Pulmonology,CAREPLUS,"Port Lauren, MS",1602,32,True
+PRV-1022,4913013819,Dr. Anthony Schroeder,Pulmonology,CAREPLUS,"East Kimberly, NJ",1495,71,True
+PRV-1023,6286635299,Dr. Erin Dixon,Pulmonology,CAREPLUS,"Lake Patrickstad, UT",972,64,True
+PRV-1024,7055585266,Dr. Elizabeth Hall,Family Practice,CAREPLUS,"Edwardchester, WV",1941,55,True
+PRV-1025,9223296899,Dr. Margaret Lee,Psychiatry,CAREPLUS,"Williamsburgh, MD",2978,34,False
+PRV-1026,8672117871,Dr. Ashley Perkins,Cardiology,CAREPLUS,"Joycetown, CA",2832,72,True
+PRV-1027,9200233904,Dr. Christina Allen,Dermatology,CAREPLUS,"Jessicaside, OK",1065,58,True
+PRV-1028,8713142578,Dr. William Mann,Pulmonology,CAREPLUS,"Joeburgh, KY",1785,27,True
+PRV-1029,7049473418,Dr. Lisa Parker,Obstetrics & Gynecology,CAREPLUS,"Tylerport, GU",1107,56,False
+PRV-1030,4318484912,Dr. Jim Banks,Pediatrics,CAREPLUS,"Brittanyland, GA",2359,20,True
+PRV-1031,5813751424,Dr. Shelley Hawkins,Endocrinology,CAREPLUS,"Douglasbury, VI",2771,65,False
+PRV-1032,4190533614,Dr. Joanna Mosley,Pediatrics,CAREPLUS,"North Terri, NE",639,73,False
+PRV-1033,9692719434,Dr. Eric Reyes,Pediatrics,CAREPLUS,"Derekton, AZ",799,28,False
+PRV-1034,9178736108,Dr. Jade Walker,Pulmonology,CAREPLUS,"North Jamesstad, PR",1022,45,True
+PRV-1035,8352913188,Dr. Penny Johnson,Family Practice,CAREPLUS,"Justinland, WY",1879,77,True
+PRV-1036,3648403946,Dr. Jordan Thomas,Internal Medicine,CAREPLUS,"Karlatown, HI",802,67,True
+PRV-1037,9374838576,Dr. Nicole Mendez,Oncology,CAREPLUS,"Nicolemouth, MH",2342,67,False
+PRV-1038,1359873139,Dr. Scott Wheeler,Internal Medicine,CAREPLUS,"New Tracy, GA",2931,57,True
+PRV-1039,7242851593,Dr. Danielle Ross,Pulmonology,CAREPLUS,"Michaelberg, TN",2296,31,True
+PRV-1040,1416176337,Dr. Phillip Hodges,Endocrinology,HEALTHBRIDGE,"Laurashire, RI",2520,41,True
+PRV-1041,7127584892,Dr. Daniel Blake,Pulmonology,HEALTHBRIDGE,"Port Kerri, IL",2073,40,True
+PRV-1042,5095310029,Dr. Kristine Cardenas,Internal Medicine,HEALTHBRIDGE,"Richardville, NH",1362,47,True
+PRV-1043,7938423009,Dr. Tiffany Vaughan,Family Practice,HEALTHBRIDGE,"Brownchester, UT",1922,38,True
+PRV-1044,5804140319,Dr. Todd Grant,Endocrinology,HEALTHBRIDGE,"South James, IN",2493,48,True
+PRV-1045,4802545724,Dr. Rachel Williams,Endocrinology,HEALTHBRIDGE,"Patriciaburgh, NJ",1562,58,True
+PRV-1046,4970765357,Dr. Sally Davila,Endocrinology,HEALTHBRIDGE,"Campbellside, WY",1077,26,True
+PRV-1047,1725215637,Dr. Rachel Martinez,Dermatology,HEALTHBRIDGE,"Joshuafort, ND",662,77,True
+PRV-1048,5323593724,Dr. Bethany Smith,Internal Medicine,HEALTHBRIDGE,"New Craig, PR",2013,33,True
+PRV-1049,7748102981,Dr. Justin Williams,Psychiatry,HEALTHBRIDGE,"North Melissaburgh, MA",2633,28,False
+PRV-1050,4628148396,Dr. Linda Hickman,Psychiatry,HEALTHBRIDGE,"Dixonmouth, VI",2270,51,True
+PRV-1051,3872111537,Dr. Steven Cherry,Pulmonology,HEALTHBRIDGE,"North Harold, VI",823,67,True
+PRV-1052,4123994242,Dr. Lisa Huber,Pulmonology,HEALTHBRIDGE,"Malonebury, SC",1141,52,True
+PRV-1053,6480842253,Dr. Michael Williams,Obstetrics & Gynecology,HEALTHBRIDGE,"Danielleborough, TX",803,65,True
+PRV-1054,5459708703,Dr. Erin Strickland,Family Practice,HEALTHBRIDGE,"Port Teresachester, KY",2635,40,True
+PRV-1055,1034233408,Dr. Teresa Hood,Pediatrics,HEALTHBRIDGE,"Danielsstad, TN",2901,44,True
+PRV-1056,3892006052,Dr. Bruce Page,Endocrinology,HEALTHBRIDGE,"New Patriciabury, ID",2425,29,False
+PRV-1057,4495540116,Dr. Victor Oliver,Psychiatry,HEALTHBRIDGE,"Gomezmouth, CA",1657,28,True
+PRV-1058,1919935099,Dr. Andrew Mckinney,Oncology,HEALTHBRIDGE,"Port Jessicafurt, MD",775,51,True
+PRV-1059,4049386023,Dr. Jorge Barry,Internal Medicine,HEALTHBRIDGE,"East Tammy, GA",2212,64,True

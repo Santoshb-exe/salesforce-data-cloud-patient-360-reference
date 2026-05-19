@@ -1,0 +1,22 @@
+code_type,raw_code,raw_description,friendly_category,marketing_category,risk_tier,recommended_outreach_frequency
+ICD10,E11.9,Type 2 diabetes mellitus without complications,Diabetes,Chronic Care,High,Quarterly
+ICD10,E11.65,Type 2 diabetes with hyperglycemia,Diabetes,Chronic Care,High,Quarterly
+ICD10,I10,Essential hypertension,Cardiac,Chronic Care,Medium,Quarterly
+ICD10,I25.10,Atherosclerotic heart disease,Cardiac,Chronic Care,High,Quarterly
+ICD10,J45.909,Unspecified asthma,Chronic Respiratory,Chronic Care,Medium,Quarterly
+ICD10,J44.9,COPD unspecified,Chronic Respiratory,Chronic Care,High,Quarterly
+ICD10,F41.1,Generalized anxiety disorder,Mental Health,Behavioral Health,Medium,Monthly
+ICD10,F32.9,Major depressive disorder,Mental Health,Behavioral Health,High,Monthly
+ICD10,E78.5,Hyperlipidemia,Cardiac,Chronic Care,Medium,Semi-Annual
+ICD10,Z00.00,Adult general medical exam,Annual Wellness,Preventive Care,Low,Annual
+ICD10,Z00.121,Child routine exam abnormal,Pediatric Wellness,Preventive Care,Low,Annual
+ICD10,Z00.129,Child routine exam normal,Pediatric Wellness,Preventive Care,Low,Annual
+ICD10,Z23,Immunization,Pediatric Wellness,Preventive Care,Low,Annual
+CPT,99213,Office visit established patient,General Care,Care Coordination,Low,As Needed
+CPT,99392,Pediatric preventive reevaluation 1-4,Pediatric Wellness,Preventive Care,Low,Annual
+CPT,99395,Adult preventive reevaluation 18-39,Annual Wellness,Preventive Care,Low,Annual
+CPT,99396,Adult preventive reevaluation 40-64,Annual Wellness,Preventive Care,Low,Annual
+CPT,83036,Hemoglobin A1c,Diabetes,Chronic Care,High,Quarterly
+CPT,80053,Comprehensive metabolic panel,Chronic Care,Care Coordination,Medium,Semi-Annual
+CPT,G0438,"Annual wellness visit, initial",Annual Wellness,Preventive Care,Low,Annual
+CPT,G0439,"Annual wellness visit, subsequent",Annual Wellness,Preventive Care,Low,Annual
